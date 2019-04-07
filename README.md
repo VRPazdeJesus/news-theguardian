@@ -1,6 +1,6 @@
 # News The Guardian
 
-![The Guardian](https://media-manager.noticiasaominuto.com/naom_5ae1d9b0e3b1e.jpg?&w=1920)
+![The Guardian](https://media-assets-05.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-90538-download--2x1--900.jpg)
 
 > Um script modularizado para buscar, através da API do jornal The Guardian, as últimas notícias e exportar para CSV os títulos e links das notícias de algumas categorias:
 
