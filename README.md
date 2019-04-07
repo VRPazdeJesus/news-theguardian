@@ -37,5 +37,6 @@ $ git push origin master
 ```
 
 ### Desenvolvedor
-> Víctor Romário 
+> Víctor Romário - 
 > Desenvolvedor Web e Mobile - https://www.victorromario.com.br/
+> Aplicação para demonstração aos alunos do curso "Programando em Python"
